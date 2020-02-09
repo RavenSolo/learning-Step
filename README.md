@@ -1,2 +1,2 @@
 # learning-Step
-training projects
+//это мой репозиторий для домашних заданий по обучнию
